@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: lightblue;
+  height: 125px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+header h1 {
+  padding-top: 35px;
+  color: white;
+  font-size: 48px;
+  height: auto;
+}
+.main-container {
+  margin: 0 auto;
+}
+#search-block {
+  border: 2px solid lightgrey;
+}
+#current-city {
+  height: 350px;
+  border: 2px solid lightgrey;
+  border-radius: 2px;
+  margin-bottom: 20px;
+}
+#five-day {
+
+  height: 200px;
+  border: 2px solid lightgrey;
+  border-radius: 2px;
+}
