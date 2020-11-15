@@ -20,6 +20,13 @@ header h1 {
 #search-block {
   border: 2px solid lightgrey;
 }
+/* this is all the styles for the label/search bar/and button */
+#label {
+  display: block;
+}
+#search-input {
+  display: inline-block;
+}
 #current-city {
   height: 350px;
   border: 2px solid lightgrey;
@@ -27,8 +34,10 @@ header h1 {
   margin-bottom: 20px;
 }
 #five-day {
-
   height: 200px;
   border: 2px solid lightgrey;
   border-radius: 2px;
+}
+.card{
+    display: inline-block;
 }
