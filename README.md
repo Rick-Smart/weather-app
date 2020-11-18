@@ -7,4 +7,8 @@ this is completed by performing multiple API calls, one by city name and then th
 here you can see the weather app in action.
 https://rick-smart.github.io/weather-app/
 
+working screen shot
 ![Screenshot (5)](https://user-images.githubusercontent.com/65750703/99498008-9c724880-292b-11eb-91ef-2e670807478d.png)
+
+after a request I am seeing this error please advise. Both of my API calls are using https so I don't understand why I'm seeing this.
+![Screenshot (6)](https://user-images.githubusercontent.com/65750703/99498403-3d610380-292c-11eb-9f02-a6622b389b6b.png)
