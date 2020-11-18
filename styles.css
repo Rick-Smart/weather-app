@@ -32,12 +32,14 @@ header h1 {
   border: 2px solid lightgrey;
   border-radius: 2px;
   margin-bottom: 20px;
+  width: fit-content;
 }
 #five-day {
-  height: 200px;
+  height: auto;
   border: 2px solid lightgrey;
   border-radius: 2px;
 }
 .card{
     display: inline-block;
+    width: fit-content;
 }
